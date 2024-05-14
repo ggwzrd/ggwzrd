@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Kotlin and Typescript at @sumup
+- 🔭 I’m currently working with Golang, Kotlin and Typescript at @sumup
 - 🧙‍♂️ I'm learning to cast a perfect patronus charm
 - 👨‍🚀 I'm looking to travel the galaxy
 - 📫 How to reach me: justdont@gmail.com
